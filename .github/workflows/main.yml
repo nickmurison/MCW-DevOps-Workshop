@@ -11,7 +11,7 @@ on:
 env:
   resourcegroup: mcw-lab-nick-rg
   containerregistry: mcwlabnick.azurecr.io
-  registryusername: http://mcwworkshop
+  registryusername: 5c15675c-03b0-4d1d-8430-2b783787064e
   imagename: mcwlabnick.azurecr.io/tailspintoys/web
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
